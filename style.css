@@ -1,0 +1,10 @@
+header h1{
+    margin-bottom: 0px;
+}
+header p{
+    margin-top: 5px;
+}
+
+h1,p,h2{
+    text-align: center;
+}
